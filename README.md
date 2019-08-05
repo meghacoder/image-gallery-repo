@@ -1,2 +1,3 @@
 # image gallery repo
- gallery of images
+ gallery of image 
+ mainly work on responsive
